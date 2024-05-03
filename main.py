@@ -29,6 +29,7 @@ def start_timer():
     global reps, checks
     reps += 1
 
+# change your time here if you would like, first number is the minutes second is the seconds.
     work_time = 25 * 60
     short_break = 5 * 60
     long_break = 25 * 60
